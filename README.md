@@ -1,7 +1,7 @@
 # List filters
 
 By default the views with a list/collection of resources support the configuration of *list filters*, to refine the search over the shown results.
-Just use the filter control ( ![Test svg](./funnel.png) ) close to the search input to add filters (if they are not already present). Click on the the *quick control* to show the filter details, or click the 'x' button on to remove it.
+Just use the filter control (![Test svg](./funnel.png)) close to the search input to add filters (if they are not already present). Click on the the *quick control* to show the filter details, or click the 'x' button on to remove it.
 
 ## Definition in view-config
 
